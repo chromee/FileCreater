@@ -1,0 +1,32 @@
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\MainWindow.baml
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\MainWindow.g.cs
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\App.g.cs
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater_MarkupCompile.cache
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater.g.resources
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater.Properties.Resources.resources
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater.csproj.GenerateResource.Cache
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\bin\Debug\FileCreater.exe.config
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\bin\Debug\FileCreater.exe
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\bin\Debug\FileCreater.pdb
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater.exe
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater.pdb
+D:\Program Files\OneDrive\Projects\FileCreater\FileCreater\obj\Debug\FileCreater.csprojResolveAssemblyReference.cache
+D:\Program Files\OneDrive\VisualProjects\FileCreater\FileCreater\bin\Debug\FileCreater.exe.config
+D:\Program Files\OneDrive\VisualProjects\FileCreater\FileCreater\obj\Debug\FileCreater.exe
+D:\Program Files\OneDrive\VisualProjects\FileCreater\FileCreater\obj\Debug\FileCreater.pdb
+D:\Download\FileCreater\FileCreater\bin\Debug\FileCreater.exe.config
+D:\Download\FileCreater\FileCreater\obj\Debug\FileCreater.exe
+D:\Download\FileCreater\FileCreater\obj\Debug\FileCreater.pdb
+D:\Download\新しいフォルダー (2)\FileCreater\bin\Debug\FileCreater.exe.config
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater.exe
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater.pdb
+D:\Download\新しいフォルダー (2)\FileCreater\bin\Debug\FileCreater.exe
+D:\Download\新しいフォルダー (2)\FileCreater\bin\Debug\FileCreater.pdb
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater.csprojResolveAssemblyReference.cache
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\MainWindow.baml
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\MainWindow.g.cs
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\App.g.cs
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater_MarkupCompile.cache
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater.g.resources
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater.Properties.Resources.resources
+D:\Download\新しいフォルダー (2)\FileCreater\obj\Debug\FileCreater.csproj.GenerateResource.Cache
